@@ -1,5 +1,5 @@
 ファイル構造について
-HTML
+School_FES
 |
 |---html
 |
